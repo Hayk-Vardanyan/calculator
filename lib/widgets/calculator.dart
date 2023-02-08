@@ -14,6 +14,9 @@ class _CalculatorState extends State<Calculator> {
   bool actionButtonActivated = false;
   String lastActivated = '';
   String currentInput = '';
+
+
+
   String first = '';
 
   void outputNumber(String number) {
